@@ -1,5 +1,6 @@
 ![Uploading image.png…]()
 
+
 # Flask ML Score Predictor
 
 A simple Flask web application that predicts exam scores based on the number of study hours using a trained machine learning model.
