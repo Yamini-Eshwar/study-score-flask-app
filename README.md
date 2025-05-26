@@ -1,4 +1,5 @@
-![Uploading flask_img.png…]()
+![flask_img](https://github.com/user-attachments/assets/44361191-a1ba-4154-a583-1f5c0281d684)
+
 
 # Flask ML Score Predictor
 
