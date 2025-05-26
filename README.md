@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+![Uploading flask_img.png…]()
 
 # Flask ML Score Predictor
 
